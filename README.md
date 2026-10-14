@@ -1,4 +1,4 @@
-# Customer Shopping Behavior & Segmentation Analysis
+# Customer Shopping Behavior Analysis
 
 An end-to-end data analysis project exploring retail customer demographics, purchasing patterns, product preferences, and subscription trends. This repository integrates **Python** for data processing, **SQL** for relational database analytics, and **Power BI** for interactive business intelligence reporting.
 
@@ -15,8 +15,8 @@ Understanding customer behavior is crucial for retail optimization. This project
 
 ## 🛠️ Tech Stack & Architecture
 
-* **Data Processing & Cleaning**: Python (Pandas, SQLAlchemy)
-* **Database Management**: PostgreSQL, MySQL, MS SQL Server
+* **Data Processing & Cleaning**: Python (Pandas)
+* **Database Management**: PostgreSQL
 * **Querying & Analytics**: Advanced SQL (CTEs, Window Functions, Aggregations)
 * **Visualization & BI**: Power BI Dashboard (`.pbix`) with custom enterprise themes
 
